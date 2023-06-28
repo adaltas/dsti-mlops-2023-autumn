@@ -44,7 +44,7 @@ If you finished, you can check out [what else you can do with pytest](https://to
 
 ## Test-driven development (TDD)
 
-Develop a function that will test if the input string is a palindrom. Use TDD to do that.
+Develop a function that will test if the input si a prime number. Use TDD to do that. Follow [this tutorial](https://stackabuse.com/test-driven-development-with-pytest/) if you need help.
 
 ## Troubleshooting
 
