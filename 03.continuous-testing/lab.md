@@ -134,6 +134,10 @@ If you finished, you can check out [what else you can do with pytest](https://to
 
 Develop a function that will test if the input si a prime number. Use TDD to do that. Follow [this tutorial](https://stackabuse.com/test-driven-development-with-pytest/) if you need help.
 
+## Test coverage
+
+How to know if you wrote enough tests or not: https://medium.com/@sumanrbt1997/code-coverage-with-pytest-1f72653b0bf2
+
 ## Troubleshooting
 
 If you have problems running your tests:
