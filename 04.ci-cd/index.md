@@ -14,9 +14,11 @@ CI/CD brings automation into the DevOps life cycle. With less manual work, DevOp
 
 **Continuous Integration (CI)** - a practice in which members of a team integrate their work frequently.
 
-**Continuous Delivery (CD)** - a discipline where software is built in a manner that allows **deploying** to customers at any time.
+**Continuous Delivery (CD)** - automatically delivers the software to the testing or staging environment and requires human intervention for deployment to production.
 
 **Continuous Deployment (CD)** - this **extends Continuous Delivery** by automating the deployment process so that code is automatically deployed to production after it passes automated testing.
+
+More about the difference between CI, continuous delivery and deployment [here](https://www.puppet.com/blog/continuous-delivery-vs-deployment).
 
 ## Benefits
 
